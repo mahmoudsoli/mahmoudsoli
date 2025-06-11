@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
 <h3 align="center">DevOps and Cloud Engineer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahmoudsoli&label=Profile%20views&color=0e75b6&style=flat)
-
 
 
 ---
@@ -17,8 +15,8 @@
 - **Version Control & CI/CD:** Git, GitHub Actions, Azure DevOps, GitOps  
 - **Scripting & Programming:** Bash Scripting, Python  
 - **Containerization & Orchestration:** Docker, Kubernetes, Helm, ArgoCD  
-- **Infrastructure as Code:** Terraform, Ansible, Vagrant  
-- **Monitoring & Quality:** Prometheus, Grafana, SonarQube  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Monitoring & Quality:** Prometheus, Grafana  
 - **Cloud & Virtualization:** AWS, VMware vSphere, NSX-T
 
 ---
