@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
 <h3 align="center">DevOps and Cloud Engineer</h3>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mahmoudsoli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
@@ -12,16 +12,6 @@ h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
 - 📄 Know more about my experience: [Resume](./Mahmoud-Soliman-CV-DevOps.pdf)
 - 💡 **Skills:**  
   Linux Administration, Git, Bash Scripting, Docker, Kubernetes, AWS, Python, Vagrant, Ansible, Terraform, Helm, SonarQube, ArgoCD, Azure DevOps, GitHub Actions, Prometheus, Grafana, VMware vSphere, NSX-T
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashor11&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashor11&show_icons=true&locale=en" />
-</p>
 
 ---
 
@@ -83,8 +73,3 @@ h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
   </a>
 </p>
 
----
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashor11&" alt="Ashor11 streak stats" />
-</p>
