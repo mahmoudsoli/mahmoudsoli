@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Soliman</h1>
 <h3 align="center">DevOps and Cloud Engineer</h3>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mahmoudsoli&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudsoli&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
