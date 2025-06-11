@@ -30,10 +30,4 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudsoli&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsoli&layout=compact&theme=radical)
-
----
 
